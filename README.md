@@ -15,3 +15,6 @@ Transformar y visualizar los datos que permitan a los propietarios de la tienda 
    - Esta categoría a experimentado una disminución constante en la ventas al compararla con otras como ropa y belleza.
 
 ![Estimados clientes (2)](https://github.com/Valeria-Gutierrez67/Microsoft-Excel/assets/174573316/21eede9a-7942-4b99-8233-cc699f7bb6fc)
+
+### Código utilizado en el análisis 
+``` SELECT * FROM table ```
